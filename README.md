@@ -4,7 +4,6 @@
 **Unidade Curricular:** Integração de Sistemas de Informação (ISI)  
 **Curso:** Licenciatura em Engenharia de Sistemas Informáticos  
 **Ano Letivo:** 2025/2026  
-**Aluno:** <Eduardo>  
 **Número:** <25481>  
 
 ---
