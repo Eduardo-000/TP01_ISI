@@ -32,7 +32,7 @@ O objetivo principal é realizar operações de **extração**, **transformaçã
    - Ordenação dos jogadores por **nome (A–Z)**.  
    - Seleção de colunas relevantes (`name`, `age`, `club`, `nationality`, etc.).  
 3. **Output**: exportação para um ficheiro **XML** contendo os dados processados.  
-4. **Job**: execução automática do processo, desde a leitura do CSV até à geração do XML final.
+4. **Job**: execução automática do processo, desde a leitura do CSV até à geração dos documentos finais.
 
 ---
 
