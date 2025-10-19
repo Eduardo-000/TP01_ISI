@@ -4,6 +4,7 @@
 **Unidade Curricular:** Integração de Sistemas de Informação (ISI)  
 **Curso:** Licenciatura em Engenharia de Sistemas Informáticos  
 **Ano Letivo:** 2025/2026  
+**Nome:** <Eduardo>  
 **Número:** <25481>  
 
 ---
@@ -19,7 +20,7 @@ O objetivo principal é realizar operações de **extração**, **transformaçã
 ## Ferramentas Utilizadas
 - **Pentaho Data Integration (PDI / Spoon)**
 - **Microsoft Excel / CSV** (para preparar os dados de entrada)
-- **XML Output** (para gerar os ficheiros de saída)
+- **XML,HTML,XLS,TXT** (para gerar os ficheiros de saída)
 - **VS Code(para documentação)
 
 ---
