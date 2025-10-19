@@ -38,8 +38,8 @@ O objetivo principal é realizar operações de **extração**, **transformaçã
 
 ## Vídeo de Demonstração
 
- **Link direto:** [Clique aqui para ver o vídeo](<link do vídeo>)  
- **QR Code:** incluído no relatório em `25481_doc.pdf`
+ **Link direto:** [Clique aqui para ver o vídeo](<https://youtu.be/9W0e5HdP4O0>)  
+ **QR Code:** incluído no relatório em `Relatorio 25481.pdf`
 
 
 
